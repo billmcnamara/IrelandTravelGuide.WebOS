@@ -1,0 +1,54 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "menu",
+        "source": "app/assistants/menu-assistant.js"
+    },
+    {
+        "scenes": "north",
+        "source": "app/assistants/north-assistant.js"
+    },
+    {
+        "scenes": "west",
+        "source": "app/assistants/west-assistant.js"
+    },
+    {
+        "scenes": "east",
+        "source": "app/assistants/east-assistant.js"
+    },
+    {
+        "scenes": "south",
+        "source": "app/assistants/south-assistant.js"
+    },
+    {
+        "scenes": "list",
+        "source": "app/assistants/list-assistant.js"
+    },
+    {
+        "scenes": "info",
+        "source": "app/assistants/info-assistant.js"
+    },
+    {
+        "scenes": "contact",
+        "source": "app/assistants/contact-assistant.js"
+    },
+    {
+        "scenes": "detail",
+        "source": "app/assistants/detail-assistant.js"
+    },
+    { 
+    	"source": "data/kNorth.js"
+    },
+    { 
+    	"source": "data/kWest.js"
+    },
+    { 
+    	"source": "data/kEast.js"
+    },
+    { 
+    	"source": "data/kSouth.js"
+    },
+    { 
+    	"source": "data/kNSEW.js"
+    }
+]

@@ -1,0 +1,11 @@
+{
+	"id": "fr.mcnamara.irelandtravelguideplus",
+	"version": "2.1.0",
+	"vendor": "mcnamara.fr",
+	"type": "web",
+	"main": "index.html",
+	"title": "Ireland Travel Guide Plus",
+	"icon": "icon.png",
+	"splashicon": "splashicon.png",
+	"splashBackground": "splashscreen.png"
+}
